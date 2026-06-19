@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ads formatVersion="3" target="Avito.ru">
+  <Ad>
+    <Id>ls-landing-01</Id>
+    <Title>Лендинг под ключ за 2 дня без предоплаты</Title>
+    <Description><![CDATA[Без предоплаты. Сначала собираем и показываем готовый сайт — и только потом разговор об оплате. Не понравится результат — вы не платите ничего.
+
+Так вы ничем не рискуете: видите конкретный лендинг под вашу нишу, а не обещания. Соберём за 2 дня — структура под продажу, цепляющие офферы, адаптив под телефон, формы заявок и аналитика.
+
+Тариф «Экспресс» — 20000: готовый шаблон под нишу с вашими данными, запуск за пару часов. Нужен индивидуальный дизайн — «Под себя» 25000 и «Под ключ» 30000.
+
+Напишите нишу — пришлём пример и сроки.]]></Description>
+    <Category>IT, дизайн, тексты</Category>
+    <Price>20000</Price>
+    <Address>Москва</Address>
+    <ServiceType>Создание сайтов и приложений</ServiceType>
+    <ServiceSubtype>Создание сайтов</ServiceSubtype>
+    <TypesOfWebsites>Лендинг</TypesOfWebsites>
+    <TypesOfDevelopment>Разработка с нуля</TypesOfDevelopment>
+    <ContentManagementSystem>Tilda</ContentManagementSystem>
+    <WorkExperience>3–5 лет</WorkExperience>
+    <Place>Удалённо</Place>
+    <WorkWith>С физическими лицами и компаниями</WorkWith>
+    <Consultations>Да</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Без предоплаты</Prepayment>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/goodrojh/landingsfera-avito/main/images/ad-1.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>ls-landing-02</Id>
+    <Title>Сначала сайт — потом оплата за результат</Title>
+    <Description><![CDATA[Платите только за то, что вам нравится. Схема простая: мы делаем сайт → показываем готовое превью → нравится, забираете и оплачиваете → не нравится, расходимся, и вы ничего не должны.
+
+Никаких авансов и «доплат по ходу». Весь риск — на нас, потому что мы уверены в результате.
+
+Внутри: проработка смыслов и офферов, современный дизайн, адаптив, формы заявок, базовая аналитика. Срок — 2 дня.
+
+«Под себя» — 25000: собираем по вашему брифу. Есть «Экспресс» 20000 и «Под ключ» 30000.
+
+Расскажите про продукт — покажем, каким будет ваш сайт, ещё до оплаты.]]></Description>
+    <Category>IT, дизайн, тексты</Category>
+    <Price>25000</Price>
+    <Address>Москва</Address>
+    <ServiceType>Создание сайтов и приложений</ServiceType>
+    <ServiceSubtype>Создание сайтов</ServiceSubtype>
+    <TypesOfWebsites>Лендинг</TypesOfWebsites>
+    <TypesOfDevelopment>Разработка с нуля</TypesOfDevelopment>
+    <ContentManagementSystem>Tilda</ContentManagementSystem>
+    <WorkExperience>3–5 лет</WorkExperience>
+    <Place>Удалённо</Place>
+    <WorkWith>С физическими лицами и компаниями</WorkWith>
+    <Consultations>Да</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Без предоплаты</Prepayment>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/goodrojh/landingsfera-avito/main/images/ad-2.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>ls-landing-03</Id>
+    <Title>Продающий лендинг для бизнеса и услуг</Title>
+    <Description><![CDATA[Лендинг должен продавать, а не лежать в закладках. Собираем страницы, которые превращают трафик в заявки.
+
+Считываем вашу аудиторию, выносим сильный оффер на первый экран, снимаем возражения и ведём человека к заявке. Дизайн — современный, без шаблонной «воды». Адаптив, формы, метрика, аккуратная скорость загрузки. Срок — 2 дня.
+
+Работаем без предоплаты: сначала показываем готовый сайт, оплата — только если он вам нравится.
+
+«Под себя» — 25000. Нужны исследование ниши и продающие тексты — «Под ключ» 30000. Базовый запуск — «Экспресс» 20000.
+
+Опишите нишу и цель — предложим структуру под заявки.]]></Description>
+    <Category>IT, дизайн, тексты</Category>
+    <Price>25000</Price>
+    <Address>Москва</Address>
+    <ServiceType>Создание сайтов и приложений</ServiceType>
+    <ServiceSubtype>Создание сайтов</ServiceSubtype>
+    <TypesOfWebsites>Лендинг</TypesOfWebsites>
+    <TypesOfDevelopment>Разработка с нуля</TypesOfDevelopment>
+    <ContentManagementSystem>Tilda</ContentManagementSystem>
+    <WorkExperience>3–5 лет</WorkExperience>
+    <Place>Удалённо</Place>
+    <WorkWith>С физическими лицами и компаниями</WorkWith>
+    <Consultations>Да</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Без предоплаты</Prepayment>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/goodrojh/landingsfera-avito/main/images/ad-3.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>ls-landing-04</Id>
+    <Title>Лендинг с вау-дизайном и анимацией</Title>
+    <Description><![CDATA[Сайт, который запоминается с первого экрана. Современный визуал, плавные анимации и графика, которая работает на доверие к бренду.
+
+Не штампуем типовые шаблоны: собираем индивидуальный стиль под ваш продукт — чтобы выгодно отличаться от конкурентов и удерживать внимание. Структура, адаптив, микроанимации, формы заявок, аналитика. Запуск — 2 дня.
+
+Без предоплаты: сначала покажем готовый дизайн, оплата — после того как одобрите. Не понравится — ничего не платите.
+
+«Под ключ» — 30000: исследование ниши, упаковка смыслов, тексты и кастомный визуал. Бюджетнее — «Под себя» 25000 или «Экспресс» 20000.
+
+Пришлите нишу и примеры, которые нравятся — покажем концепт.]]></Description>
+    <Category>IT, дизайн, тексты</Category>
+    <Price>30000</Price>
+    <Address>Москва</Address>
+    <ServiceType>Создание сайтов и приложений</ServiceType>
+    <ServiceSubtype>Создание сайтов</ServiceSubtype>
+    <TypesOfWebsites>Лендинг</TypesOfWebsites>
+    <TypesOfDevelopment>Разработка с нуля</TypesOfDevelopment>
+    <ContentManagementSystem>Tilda</ContentManagementSystem>
+    <WorkExperience>3–5 лет</WorkExperience>
+    <Place>Удалённо</Place>
+    <WorkWith>С физическими лицами и компаниями</WorkWith>
+    <Consultations>Да</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Без предоплаты</Prepayment>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/goodrojh/landingsfera-avito/main/images/ad-4.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>ls-landing-05</Id>
+    <Title>Сайт бесплатно при ведении рекламы</Title>
+    <Description><![CDATA[Берём вашу рекламу под ключ — продающий лендинг делаем бесплатно.
+
+Как это работает: при договоре на ведение Яндекс.Директа и таргета от 3 месяцев мы собираем вам продающий лендинг «Под ключ» (обычно 30000) — в подарок. Дальше ведём рекламу и гоним на сайт целевой трафик, а вы получаете заявки.
+
+Сам сайт — без предоплаты: сначала показываем готовый результат, потом работаем. Сайт работает у нас на время сотрудничества; захотите забрать себе — выкуп 25000, и всё ваше: код, доступы, домен.
+
+Рекламный бюджет (клики и показы) оплачивается отдельно на ваш кабинет — это деньги на трафик, не наша оплата.
+
+Напишите нишу и гео — посчитаем связку и покажем пример сайта.]]></Description>
+    <Category>IT, дизайн, тексты</Category>
+    <Address>Москва</Address>
+    <ServiceType>Создание сайтов и приложений</ServiceType>
+    <ServiceSubtype>Создание сайтов</ServiceSubtype>
+    <TypesOfWebsites>Лендинг</TypesOfWebsites>
+    <TypesOfDevelopment>Разработка с нуля</TypesOfDevelopment>
+    <ContentManagementSystem>Tilda</ContentManagementSystem>
+    <WorkExperience>3–5 лет</WorkExperience>
+    <Place>Удалённо</Place>
+    <WorkWith>С физическими лицами и компаниями</WorkWith>
+    <Consultations>Да</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Без предоплаты</Prepayment>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/goodrojh/landingsfera-avito/main/images/ad-5.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>ls-landing-06</Id>
+    <Title>Лендинг на Tilda за 1 день</Title>
+    <Description><![CDATA[Нужен сайт уже завтра? Соберём аккуратный продающий лендинг на Tilda за 1 день.
+
+Подойдёт, когда важно быстро запустить продажи: услуга, акция, мероприятие или тест ниши. Сразу с адаптивом под телефон, формами заявок и подключённой аналитикой.
+
+Без предоплаты — показываем готовый сайт, и только потом оплата. Не понравится — ничего не платите. Правки до результата, который вам нравится.
+
+«Экспресс» — 20000: готовый шаблон под нишу с вашими данными. Нужен индивидуальный дизайн — «Под себя» 25000.
+
+Скажите, под что нужен сайт — пришлём пример и срок.]]></Description>
+    <Category>IT, дизайн, тексты</Category>
+    <Price>20000</Price>
+    <Address>Москва</Address>
+    <ServiceType>Создание сайтов и приложений</ServiceType>
+    <ServiceSubtype>Создание сайтов</ServiceSubtype>
+    <TypesOfWebsites>Лендинг</TypesOfWebsites>
+    <TypesOfDevelopment>Разработка с нуля</TypesOfDevelopment>
+    <ContentManagementSystem>Tilda</ContentManagementSystem>
+    <WorkExperience>3–5 лет</WorkExperience>
+    <Place>Удалённо</Place>
+    <WorkWith>С физическими лицами и компаниями</WorkWith>
+    <Consultations>Да</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Без предоплаты</Prepayment>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/goodrojh/landingsfera-avito/main/images/ad-6.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>ls-landing-07</Id>
+    <Title>Лендинг для Яндекс.Директа и таргета</Title>
+    <Description><![CDATA[Заливаете бюджет в рекламу, а заявок мало? Часто дело в посадочной странице. Соберём лендинг, заточенный под платный трафик.
+
+Чёткий оффер на первом экране, понятный путь к заявке, быстрая загрузка, корректная вёрстка под мобильные — там, где идёт основной трафик. Настроим цели и аналитику, чтобы видеть, что окупается. Срок — 2 дня.
+
+Без предоплаты: сначала готовый сайт, потом оплата — только если он вам нравится.
+
+«Под себя» — 25000. Нужны ещё тексты и исследование ниши — «Под ключ» 30000.
+
+Опишите оффер и площадку рекламы — предложим структуру посадочной.]]></Description>
+    <Category>IT, дизайн, тексты</Category>
+    <Price>25000</Price>
+    <Address>Москва</Address>
+    <ServiceType>Создание сайтов и приложений</ServiceType>
+    <ServiceSubtype>Создание сайтов</ServiceSubtype>
+    <TypesOfWebsites>Лендинг</TypesOfWebsites>
+    <TypesOfDevelopment>Разработка с нуля</TypesOfDevelopment>
+    <ContentManagementSystem>Tilda</ContentManagementSystem>
+    <WorkExperience>3–5 лет</WorkExperience>
+    <Place>Удалённо</Place>
+    <WorkWith>С физическими лицами и компаниями</WorkWith>
+    <Consultations>Да</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Без предоплаты</Prepayment>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/goodrojh/landingsfera-avito/main/images/ad-7.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>ls-landing-08</Id>
+    <Title>Лендинг для эксперта и онлайн-школы</Title>
+    <Description><![CDATA[Личный бренд, курс, консультации, наставничество — упакуем экспертизу в сайт, которому доверяют и с которого записываются.
+
+Покажем ваш результат и кейсы, снимем сомнения аудитории, выстроим путь к записи на консультацию или к покупке курса. Стиль — под вас, без перегруза. Адаптив, формы записи, аналитика. Запуск — 2 дня.
+
+Без предоплаты: сначала готовый сайт, оплата — после того как он вам понравится.
+
+«Под себя» — 25000. Хотите продающие тексты и исследование аудитории — «Под ключ» 30000. Быстрый старт — «Экспресс» 20000.
+
+Напишите, чем занимаетесь — покажем, как это подать на сайте.]]></Description>
+    <Category>IT, дизайн, тексты</Category>
+    <Price>25000</Price>
+    <Address>Москва</Address>
+    <ServiceType>Создание сайтов и приложений</ServiceType>
+    <ServiceSubtype>Создание сайтов</ServiceSubtype>
+    <TypesOfWebsites>Лендинг</TypesOfWebsites>
+    <TypesOfDevelopment>Разработка с нуля</TypesOfDevelopment>
+    <ContentManagementSystem>Tilda</ContentManagementSystem>
+    <WorkExperience>3–5 лет</WorkExperience>
+    <Place>Удалённо</Place>
+    <WorkWith>С физическими лицами и компаниями</WorkWith>
+    <Consultations>Да</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Без предоплаты</Prepayment>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/goodrojh/landingsfera-avito/main/images/ad-8.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>ls-landing-09</Id>
+    <Title>Сайт-лендинг под ключ: дизайн+тексты</Title>
+    <Description><![CDATA[Полная упаковка под ключ: от исследования ниши до готового сайта с продающими текстами и кастомным дизайном. Вам остаётся принимать заявки.
+
+Изучаем нишу и конкурентов, собираем офферы, пишем тексты, рисуем индивидуальный визуал, верстаем адаптив и подключаем аналитику. Вы получаете цельную систему, а не набор блоков. Срок — 2 дня.
+
+Без предоплаты: показываем готовый результат, оплата — после согласования. Не понравится — вы ничего не платите.
+
+«Под ключ» — 30000. Бюджетнее — «Под себя» 25000 или «Экспресс» 20000. Маркетинговую упаковку можно добавить отдельно.
+
+Расскажите о бизнесе — пришлём план и концепт.]]></Description>
+    <Category>IT, дизайн, тексты</Category>
+    <Price>30000</Price>
+    <Address>Москва</Address>
+    <ServiceType>Создание сайтов и приложений</ServiceType>
+    <ServiceSubtype>Создание сайтов</ServiceSubtype>
+    <TypesOfWebsites>Лендинг</TypesOfWebsites>
+    <TypesOfDevelopment>Разработка с нуля</TypesOfDevelopment>
+    <ContentManagementSystem>Tilda</ContentManagementSystem>
+    <WorkExperience>3–5 лет</WorkExperience>
+    <Place>Удалённо</Place>
+    <WorkWith>С физическими лицами и компаниями</WorkWith>
+    <Consultations>Да</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Без предоплаты</Prepayment>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/goodrojh/landingsfera-avito/main/images/ad-9.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>ls-landing-10</Id>
+    <Title>Одностраничный сайт для вашего бизнеса</Title>
+    <Description><![CDATA[Компактный сайт, который коротко и убедительно рассказывает о вашем продукте и собирает заявки. Идеально, когда нужна одна сильная страница вместо громоздкого многостраничника.
+
+Соберём структуру под вашу цель: услуги, цены, преимущества, отзывы и форма заявки. Современный дизайн, адаптив под телефон, подключение аналитики. Запуск за 2 дня.
+
+Без предоплаты — сначала готовый сайт, потом оплата. Не понравится — ничего не платите.
+
+«Экспресс» — 20000: шаблон под нишу с вашими данными. Нужен индивидуальный подход — «Под себя» 25000, «Под ключ» 30000.
+
+Напишите про бизнес — пришлём пример и стоимость.]]></Description>
+    <Category>IT, дизайн, тексты</Category>
+    <Price>20000</Price>
+    <Address>Москва</Address>
+    <ServiceType>Создание сайтов и приложений</ServiceType>
+    <ServiceSubtype>Создание сайтов</ServiceSubtype>
+    <TypesOfWebsites>Лендинг</TypesOfWebsites>
+    <TypesOfDevelopment>Разработка с нуля</TypesOfDevelopment>
+    <ContentManagementSystem>Tilda</ContentManagementSystem>
+    <WorkExperience>3–5 лет</WorkExperience>
+    <Place>Удалённо</Place>
+    <WorkWith>С физическими лицами и компаниями</WorkWith>
+    <Consultations>Да</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Prepayment>Без предоплаты</Prepayment>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/goodrojh/landingsfera-avito/main/images/ad-10.png"/>
+    </Images>
+  </Ad>
+</Ads>
