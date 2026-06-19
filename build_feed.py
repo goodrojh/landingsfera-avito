@@ -9,9 +9,7 @@ CONTACT_METHOD = "По телефону и в сообщениях"
 
 # Общие параметры подкатегории "Создание сайтов и приложений"
 COMMON = {
-    "Category": "IT, дизайн, тексты",
-    "ServiceType": "Создание сайтов и приложений",
-    "ServiceSubtype": "Создание сайтов",
+    "Category": "Создание сайтов и приложений",
     "TypesOfWebsites": "Лендинг",
     "TypesOfDevelopment": "Разработка с нуля",
     "ContentManagementSystem": "Tilda",
@@ -143,7 +141,7 @@ ads = [
 Напишите про бизнес — пришлём пример и стоимость."""},
 ]
 
-ORDER = ["Category", "ServiceType", "ServiceSubtype", "TypesOfWebsites",
+ORDER = ["Category", "TypesOfWebsites",
          "TypesOfDevelopment", "ContentManagementSystem", "WorkExperience",
          "Place", "WorkWith", "Consultations", "WorkWithContract", "Prepayment"]
 
